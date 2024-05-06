@@ -17,5 +17,5 @@ Hello! As a student passionate about software development, I completed my HTML, 
 <a href="mailto:furkan@ipek.dev">
     <img src="https://img.shields.io/badge/mail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </div>
+
