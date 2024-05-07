@@ -5,7 +5,7 @@ Hello! As a student passionate about software development, I completed my HTML, 
 ## Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-ff4500?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=blue)
+![CSS](https://img.shields.io/badge/-CSS-0078d7?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 
 ## Contact Me
@@ -15,7 +15,7 @@ Hello! As a student passionate about software development, I completed my HTML, 
     <img src="https://img.shields.io/badge/linkedin-%23000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:furkan@ipek.dev">
-    <img src="https://img.shields.io/badge/mail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 </div>
 
