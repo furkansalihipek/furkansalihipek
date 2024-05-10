@@ -4,9 +4,9 @@ Hello! As a student passionate about software development, I completed my HTML, 
 
 ## Skills
 
-![HTML](https://img.shields.io/badge/-HTML-ff4500?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-0078d7?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![HTML](https://img.shields.io/badge/-HTML-ff4500?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-0078d7?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=yellow)
 
 ## Contact Me
 
