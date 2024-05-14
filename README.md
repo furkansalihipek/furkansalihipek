@@ -4,18 +4,23 @@ Hello! As a student passionate about software development, I completed my HTML, 
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=yellow)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+</div>
 
 ## Contact Me
 
-<div>
-    <a href="https://www.linkedin.com/in/furkansalihipek/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%23000000.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:furkan@ipek.dev">
-        <img src="https://img.shields.io/badge/mail-%23000000.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Mail"/>
-    </a>
+<div align="left">
+    <a href="mailto:furkan@ipek.dev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="25" alt="gmail logo" style="margin-right: 10px;" /></a>
+    <a href="https://www.linkedin.com/in/furkansalihipek/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="25" alt="linkedin logo" /></a>
 </div>
