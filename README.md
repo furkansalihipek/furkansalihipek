@@ -18,9 +18,3 @@ Hello! As a student passionate about software development, I completed my HTML, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
-## Contact Me
-
-<div align="left">
-    <a href="mailto:furkan@ipek.dev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="25" alt="gmail logo" style="margin-right: 10px;" /></a>
-    <a href="https://www.linkedin.com/in/furkansalihipek/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="25" alt="linkedin logo" /></a>
-</div>
